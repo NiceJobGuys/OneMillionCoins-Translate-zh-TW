@@ -2,6 +2,8 @@
 
 為 One Million Coins 新增獨立的「繁體中文」語言選項，保留英文、德文、俄文與簡體中文。共 1,558 筆翻譯，以原版簡中轉換並調整臺灣常用詞。
 
+遊戲連結：[One Million Coins — Steam 商店](https://store.steampowered.com/app/5258340/One_Million_Coins/)。
+
 本專案公開提供原始碼與翻譯，安裝包放在 Releases；下載不需要私人專案邀請或 GitHub 登入。沿用 CoA 中文化的命名格式。
 
 1.0.0 安裝包內 README 的私人專案存取說明已不適用；套用與還原步驟不變。
