@@ -1,0 +1,209 @@
+{
+  "id": "zh-Hant",
+  "items": [
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Vault",
+      "text": "金庫"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "vault",
+      "text": "金庫"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Mine",
+      "text": "礦場"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "mine",
+      "text": "礦場"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Hopper offline",
+      "text": "存幣料斗未啟用"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Deposit",
+      "text": "存幣"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "E  •  Throw gold bar",
+      "text": "E  •  投擲金條"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "E  •  Pick up gold bar",
+      "text": "E  •  拾取金條"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "E  •  Improve the vault",
+      "text": "E  •  升級金庫"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "E  •  Improve your skills",
+      "text": "E  •  升級技能"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Recover the spilled gold before final delivery",
+      "text": "最終交付前請收回掉落的金幣"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Lift offline  •  Learn Activate elevator in the proficiencies [Q]",
+      "text": "升降機未啟用  •  請在熟練度介面 [Q] 習得「啟用升降機」"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "E  •  Atlas cargo lift",
+      "text": "E  •  Atlas 貨運升降機"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Atlas cargo lift",
+      "text": "Atlas 貨運升降機"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Activate elevator",
+      "text": "啟用升降機"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "LIFT",
+      "text": "升降機"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "{0} · You are here",
+      "text": "{0} · 你在此處",
+      "match": "template",
+      "numbers": true
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "{0} · Not authorized",
+      "text": "{0} · 尚未解鎖",
+      "match": "template",
+      "numbers": true
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "{0} · Excavate landing",
+      "text": "{0} · 請清理升降井和停靠處的金幣",
+      "match": "template",
+      "numbers": true
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "E • CALL {0}",
+      "text": "E • 呼叫升降機至 {0} 層",
+      "match": "template",
+      "numbers": true
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "CALL {0}",
+      "text": "呼叫升降機至 {0} 層",
+      "match": "template",
+      "numbers": true
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "SAVE SLOT",
+      "text": "存檔欄位"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Save slots",
+      "text": "存檔欄位"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Slot {0}",
+      "text": "存檔欄位 {0}",
+      "match": "template",
+      "numbers": true
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Empty slot",
+      "text": "空存檔欄位"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Newer game version required",
+      "text": "需要更新的遊戲版本"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Save needs recovery",
+      "text": "存檔需要恢復"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Game progress is separate. Account records are shared.",
+      "text": "各存檔進度獨立，帳號紀錄共享。"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Rename",
+      "text": "重新命名"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Rename {0}",
+      "text": "重新命名 {0}",
+      "match": "template",
+      "names": true
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Slot name (optional)",
+      "text": "存檔名稱（可選）"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Save name",
+      "text": "儲存名稱"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "{0} coins · {1} played",
+      "text": "{0} 枚金幣 · 已遊玩 {1}",
+      "match": "template"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "This replaces progress in {0} only.",
+      "text": "這隻會覆蓋 {0} 中的進度。",
+      "match": "template",
+      "names": true
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Start a new game in {0}? This replaces progress in this slot only.",
+      "text": "要在 {0} 中開始新遊戲嗎？這隻會覆蓋該存檔欄位中的進度。",
+      "match": "template",
+      "names": true
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Noto Sans SC font",
+      "text": "Noto Sans SC 字型"
+    },
+    {
+      "group": "Integration additions — not included in the proofreading sheet",
+      "en": "Noto Sans SC — used for Simplified Chinese text.",
+      "text": "Noto Sans SC — 用於簡體中文文字。"
+    }
+  ]
+}
